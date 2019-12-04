@@ -2,53 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae2b4c4-99f1-4464-b1ff-bb7b5303f63d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/bank_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/find_xml_depth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/html_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/matrix_decode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/maximize_it.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/test_bank_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/validate_postal_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/array_partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/athlete_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/company_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/customized_chess_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/dec_std_mobile_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/decorators_name_directory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/equal_heights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/is_balanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/itertools_combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/maximum_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/numpy_sum_prod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/poisonous_plants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/simple_text_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/solve_waiter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/truck_tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/two_stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/two_stacks_old.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeeksForGeeks/solveSudoko.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksForGeeks/solveSudoko.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calc/ChoclateDistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksForGeeks/ChoclateDistribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/solveSudoko-old.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/solveSudoko_old.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/solveSudoko.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/solveSudoko.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeeksForGeeks/find_xml_depth.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeeksForGeeks/iterTools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GeeksForGeeks/maximize_it.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,103 +49,20 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$PROJECT_DIR$/vending_machine/main.py" />
-        <option value="$PROJECT_DIR$/vending_machine/product.py" />
-        <option value="$PROJECT_DIR$/vending_machine/test_machine.py" />
-        <option value="$PROJECT_DIR$/vending_machine/machine.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/Weird.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/rangoli.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/capitalize.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/MinionGame.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/MergeTheTools.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/isAlpha.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/iterTools.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/defaultDict.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/namedTuple.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/captainRoom.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/setMutations.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/zipped.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/colorCode.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/reStartEnd.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/hexCode.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/reSub.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/validUID.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/xmlParser1.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/timeDelta.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/minAndMax.py" />
-        <option value="$PROJECT_DIR$/calc/calc.py" />
-        <option value="$PROJECT_DIR$/calc/test_calc.py" />
-        <option value="$PROJECT_DIR$/calc/ChoclateDistribution.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/test_solveSudoko.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/html_parser.py" />
-        <option value="$PROJECT_DIR$/tests/unittests/is_valid_card.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/is_valid_card.py" />
-        <option value="$PROJECT_DIR$/tests/unittests/bank_card.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/bank_card.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/test_bank_card.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/solveSudoko.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/validate_postal_code.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/matrix_decode.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/find_xml_depth.py" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/maximize_it.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="5" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="practice_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python" type="462c0819:PsiDirectoryNode" />
-              <item name="calc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python" type="462c0819:PsiDirectoryNode" />
-              <item name="GeeksForGeeks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1TkwEmOpcfY0FxOLFB71rI7i7Ar" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HackerRank" />
     <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\prade\PycharmProjects\practice\GeeksForGeeks" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\prade\work\GitHub\practice_python\GeeksForGeeks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prade\work\GitHub\practice_python\HackerRank" />
+      <recent name="C:\Users\prade\PycharmProjects\practice\GeeksForGeeks" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maximize_it">
-    <configuration name="find_xml_depth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.maximum_element">
+    <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksForGeeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksForGeeks/find_xml_depth.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/binary_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matrix_decode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="maximum_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksForGeeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksForGeeks/matrix_decode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/maximum_element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximize_it" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="poisonous_plants" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksForGeeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksForGeeks/maximize_it.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/poisonous_plants.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solveSudoko" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solve_waiter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksForGeeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksForGeeks/solveSudoko.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/solve_waiter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="validate_postal_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="turck_tour" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeeksForGeeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeeksForGeeks/validate_postal_code.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\prade\work\GitHub\practice_python\HackerRank\truck_tour.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.maximize_it" />
-        <item itemvalue="Python.find_xml_depth" />
-        <item itemvalue="Python.matrix_decode" />
-        <item itemvalue="Python.validate_postal_code" />
-        <item itemvalue="Python.solveSudoko" />
+        <item itemvalue="Python.maximum_element" />
+        <item itemvalue="Python.poisonous_plants" />
+        <item itemvalue="Python.turck_tour" />
+        <item itemvalue="Python.binary_tree" />
+        <item itemvalue="Python.solve_waiter" />
       </list>
     </recent_temporary>
   </component>
@@ -309,17 +206,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_in_bank_card_py - 2019.10.20 at 07h 13m 04s.xml">
-      <configuration name="Unittests in bank_card.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_bank_card_py - 2019.10.20 at 07h 13m 37s.xml">
-      <configuration name="Unittests in bank_card.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_bank_card_py - 2019.10.20 at 07h 14m 38s.xml">
-      <configuration name="Unittests in bank_card.py" configurationId="tests" />
-    </history-entry>
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -329,27 +215,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32405892" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32569557" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3846154" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -368,357 +245,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="max_depth" language="Python" />
+        <watch expression="len(petrolpumps)" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>data == ' '</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>data == ''</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a[i][j]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tP[i//3*3+j//3][0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>rP[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>res[:-i-2:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-i-size-1:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-2:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-6:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-5:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-4:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-3:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[:-1:-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[::-1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/vending_machine/main.py" />
-    <entry file="file://$PROJECT_DIR$/calc/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vending_machine/machine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/Weird.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/rangoli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/capitalize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vending_machine/product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vending_machine/test_machine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/MinionGame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/isAlpha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="4" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/MergeTheTools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/namedTuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/defaultDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/captainRoom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/setMutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/zipped.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/colorCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-end-line="9" selection-end-column="152" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/reStartEnd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/hexCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/validUID.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#100#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/reSub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/xmlParser1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/timeDelta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/minAndMax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="2" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/ChoclateDistribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calc/calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/solveSudoko-old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calc/test_calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/test_solveSudoko.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/test_bank_card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/validate_postal_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/solveSudoko.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/bank_card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/html_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/matrix_decode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/find_xml_depth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/iterTools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/maximize_it.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
