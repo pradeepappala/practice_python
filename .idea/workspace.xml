@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae2b4c4-99f1-4464-b1ff-bb7b5303f63d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/array_partition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/athlete_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/company_logo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/customized_chess_board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/dec_std_mobile_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/decorators_name_directory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/equal_heights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/is_balanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/itertools_combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/maximum_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/numpy_sum_prod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/poisonous_plants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/simple_text_editor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/solve_waiter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/truck_tour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/two_stacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/two_stacks_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientServer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientServer/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientServer/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/argparser_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/coin_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/counter_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/merge_communities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/odd_even_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/queries_fixed_len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/search_word.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/solveSudoko-old.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/solveSudoko_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/solveSudoko.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/solveSudoko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Weird.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Weird.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/poisonous_plants.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/poisonous_plants.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/HackerRank" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -77,8 +70,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maximum_element">
-    <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.client">
+    <configuration name="Weird" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Weird.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximum_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="argparser_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +104,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/maximum_element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/argparser_test.py" />
+      <option name="PARAMETERS" value="1 2 5 3 4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClientServer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClientServer/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="poisonous_plants" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="coin_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/poisonous_plants.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/coin_change.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solve_waiter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClientServer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/solve_waiter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClientServer/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,34 +176,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turck_tour" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\prade\work\GitHub\practice_python\HackerRank\truck_tour.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.argparser_test" />
+      <item itemvalue="Python.coin_change" />
+      <item itemvalue="Python.Weird" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.client" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.maximum_element" />
-        <item itemvalue="Python.poisonous_plants" />
-        <item itemvalue="Python.turck_tour" />
-        <item itemvalue="Python.binary_tree" />
-        <item itemvalue="Python.solve_waiter" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.argparser_test" />
+        <item itemvalue="Python.Weird" />
+        <item itemvalue="Python.coin_change" />
       </list>
     </recent_temporary>
   </component>
@@ -241,12 +241,32 @@
           <line>1</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/min_avg_waittime.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/counter_game.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/odd_even_list.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/cipher.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Weird.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="len(petrolpumps)" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

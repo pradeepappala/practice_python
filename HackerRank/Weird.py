@@ -8,6 +8,9 @@ def print_formatted(number):
 
 if __name__ == '__main__':
     n = 10 #int(input())
+    a = [9, 2, 3, 6, 5, 4, 3, 2, 2, 2]
+    for i, x in enumerate(a[-2::-1]):
+        print(i, x, a[len(a) - i])
     print_formatted(n)
 
 
