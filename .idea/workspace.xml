@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae2b4c4-99f1-4464-b1ff-bb7b5303f63d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClientServer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientServer/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientServer/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/argparser_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/coin_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/counter_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/merge_communities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/odd_even_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/queries_fixed_len.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/search_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/count_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/gridlandmetro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/multi_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/shelock_validstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/layzy_global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/multi_threading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Weird.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Weird.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/poisonous_plants.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/poisonous_plants.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +41,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HackerRank" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HackerRank/count_anagrams.py" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\prade\work\GitHub\practice_python\GeeksForGeeks" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\prade\work\GitHub\practice_python\HackerRank" />
       <recent name="C:\Users\prade\PycharmProjects\practice\GeeksForGeeks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prade\work\GitHub\practice_python\GeeksForGeeks" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,28 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.client">
-    <configuration name="Weird" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Weird.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.shelock_validstring">
     <configuration name="argparser_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coin_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multi_threading" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/coin_change.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/multi_threading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,20 +150,63 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="shelock_validstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/shelock_validstring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\prade\PycharmProjects\practice\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/count_anagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.argparser_test" />
-      <item itemvalue="Python.coin_change" />
-      <item itemvalue="Python.Weird" />
       <item itemvalue="Python.server" />
       <item itemvalue="Python.client" />
+      <item itemvalue="Python.multi_threading" />
+      <item itemvalue="Python.shelock_validstring" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shelock_validstring" />
+        <item itemvalue="Python.multi_threading" />
         <item itemvalue="Python.client" />
         <item itemvalue="Python.server" />
         <item itemvalue="Python.argparser_test" />
-        <item itemvalue="Python.Weird" />
-        <item itemvalue="Python.coin_change" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +282,31 @@
           <url>file://$PROJECT_DIR$/HackerRank/Weird.py</url>
           <line>11</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/layzy_global.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/layzy_global.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/shelock_validstring.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/shelock_validstring.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
