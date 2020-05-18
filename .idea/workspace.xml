@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae2b4c4-99f1-4464-b1ff-bb7b5303f63d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/count_anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/gridlandmetro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/multi_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/shelock_validstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/layzy_global.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/multi_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -222,15 +214,6 @@
       <updated>1564763014307</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
