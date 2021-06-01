@@ -1,29 +1,29 @@
 import git
 import os
 import shutil
+import timeit
 
 
 if __name__ == '__main__':
     # change to work dir
-    os.chdir('..\..\..')
-
-    # create repo
-    repo_dir = os.path.join(os.getcwd() + '\\tmp_git_repo')
-    shutil.rmtree(repo_dir, True)
-    repo = git.Repo.init(repo_dir, bare=True)
+    os.chdir('..\..')
 
     clone_dir = os.path.join(os.getcwd() + '\\tmp_git_repo_clone')
-    os.system('rmdir /S /Q {}"'.format(clone_dir))
-    shutil.rmtree(clone_dir, True)
-    cloned_repo = git.Repo.clone_from(repo_dir, clone_dir)
 
-    file_name = os.path.join(clone_dir, 'file.txt')
-    file_handle = open(file_name, "a")
-    file_handle.write('line {} in {}\n'.format(0, file_name))
-    file_handle.close()
-    cloned_repo.git.add("--all")
-    cloned_repo.index.commit("{}-th commit for {}".format(0, file_name))
-    cloned_repo.remote("origin").push()
+    os.system('rmdir /S /Q {}'.format(clone_dir))
+    start_time = timeit.default_timer()
+    cloned_repo = git.Repo.clone_from(os.path.join(os.getcwd() + '\\practice_python'), clone_dir)
+    print('completed in {}'.format(timeit.default_timer() - start_time))
+
+    os.system('rmdir /S /Q {}'.format(clone_dir))
+    start_time = timeit.default_timer()
+    os.system('git clone {} {}'.format(os.path.join(os.getcwd() + '\\practice_python'), clone_dir))
+    print('completed in {}'.format(timeit.default_timer() - start_time))
+
+    os.system('rmdir /S /Q {}'.format(clone_dir))
+    start_time = timeit.default_timer()
+    os.system('git clone --depth 1 file://{} {}'.format(os.path.join(os.getcwd() + '\\practice_python'), clone_dir))
+    print('completed in {}'.format(timeit.default_timer() - start_time))
 
     """
     # create clone
