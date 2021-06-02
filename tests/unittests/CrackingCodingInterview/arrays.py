@@ -1,6 +1,7 @@
 import unittest
-from CrackingCodingInterview.palinPerm import palinPerm
-from CrackingCodingInterview.palinPerm import oneAway
+from CrackingCodingInterview.arrays import palinPerm
+from CrackingCodingInterview.arrays import oneAway
+from CrackingCodingInterview.arrays import stringCompression
 
 
 class TestPalinPerm(unittest.TestCase):
@@ -22,7 +23,13 @@ class TestPalinPerm(unittest.TestCase):
     def test_oneAway_Pass(self):
         self.assertTrue(oneAway('pale', 'pake'))
         self.assertTrue(oneAway('pale', 'pal'))
-        self.assertTrue(oneAway('pales', 'pale'))
+        self.assertTrue(oneAway('pale', 'pales'))
+
+    def test_stringCompression(self):
+        # uncompress
+        self.assertEqual(stringCompression('abc'), 'abc')
+        self.assertEqual(stringCompression('aabb'), 'a2b2')
+        self.assertEqual(stringCompression('aaabbb'), 'a3b3')
 
 
 if __name__ == '__main__':
