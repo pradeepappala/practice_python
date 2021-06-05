@@ -1,4 +1,25 @@
-def arrayRotation(arr):
+def is_string_rotation(org_str, rot_str):
+    return True if (rot_str+rot_str).find(org_str) else False
+
+
+def zero_matrix(arr):
+    N = len(arr)
+    r_res = c_res = set()
+    for i in range(N):
+        for j in range(N):
+            if arr[i][j] == 0:
+                r_res.add(i)
+                c_res.add(j)
+    for i in r_res:
+        for j in range(N):
+            arr[i][j] = 0
+    for j in c_res:
+        for i in range(N):
+            arr[i][j] = 0
+    return arr
+
+
+def array_rotation(arr):
     N = len(arr)
     for i in range(N - 1):
         for j in range(i, N - i - 1):
